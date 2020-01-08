@@ -1,0 +1,19 @@
+#box{
+    height:600px;
+    width: 800px;
+    background-color: green;
+}
+
+#square{
+    height: 50px;
+    width: 50px;
+    border: 2px;
+    background-color: yellow;
+    position: relative;
+}
+
+#text{
+    font-size: 40px;
+    text-align: center;
+    color: blue;
+}
