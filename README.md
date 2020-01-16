@@ -4,4 +4,4 @@ In this game, the user has to click the square within the response time of 2.5 s
 
 Game can be played over here.▼
 
-[Play here](https://abhishek-94.github.io/Responsive-game/)
+[Play here](https://abhishekd10.github.io/Responsive-game/)
